@@ -1,2 +1,2 @@
 # university_blackbox
-uni
+# to run first create a student database then import table fromsql
